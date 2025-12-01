@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "../ui/card"
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "../../app/primitives/card"
 import { Container } from "../layout/Container"
 import { Section } from "../layout/Section"
 import { Grid } from "../layout/Grid"

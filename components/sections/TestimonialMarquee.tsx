@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import { Card, CardContent } from "../ui/card"
+import { Card, CardContent } from "../../app/primitives/card"
 import { Section } from "../layout/Section"
 import { motion } from "framer-motion"
 

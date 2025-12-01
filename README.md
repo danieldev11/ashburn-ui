@@ -35,7 +35,7 @@ Or copy the contents of `styles/globals.css` into your project's global CSS file
 Import components directly:
 
 ```tsx
-import { Button } from "@/ashburn-ui/components/ui/button";
+import { Button } from "@/ashburn-ui/app/primitives/button";
 import { HeroPrimary } from "@/ashburn-ui/components/sections/HeroPrimary";
 
 export default function Page() {

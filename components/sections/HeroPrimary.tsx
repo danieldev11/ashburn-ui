@@ -1,6 +1,6 @@
 import * as React from "react"
-import { Button } from "../ui/button"
-import { Badge } from "../ui/badge"
+import { Button } from "../../app/primitives/button"
+import { Badge } from "../../app/primitives/badge"
 import { Container } from "../layout/Container"
 import { Section } from "../layout/Section"
 import { SectionReveal } from "../motion/SectionReveal"
