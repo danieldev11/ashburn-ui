@@ -1,6 +1,6 @@
 import * as React from "react"
-import { Button } from "../../../app/primitives/button"
-import { Sheet, SheetContent, SheetTrigger } from "../../../app/primitives/sheet"
+import { Button } from "../primitives/button"
+import { Sheet, SheetContent, SheetTrigger } from "../primitives/sheet"
 import { Menu } from "lucide-react"
 
 interface NavItem {
