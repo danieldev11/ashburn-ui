@@ -1,9 +1,9 @@
 import * as React from "react"
 import { Button } from "../../app/primitives/button"
 import { Badge } from "../../app/primitives/badge"
-import { Container } from "../layout/Container"
-import { Section } from "../layout/Section"
-import { SectionReveal } from "../motion/SectionReveal"
+import { Container } from "../../components/layout/Container"
+import { Section } from "../../components/layout/Section"
+import { SectionReveal } from "../../components/motion/SectionReveal"
 import { ParallaxLayer } from "../motion/ParallaxLayer"
 
 interface HeroPrimaryProps {

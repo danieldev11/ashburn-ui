@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import { Card, CardContent } from "../../app/primitives/card"
-import { Section } from "../layout/Section"
+import { Section } from "../../components/layout/Section"
 import { motion } from "framer-motion"
 
 interface Testimonial {

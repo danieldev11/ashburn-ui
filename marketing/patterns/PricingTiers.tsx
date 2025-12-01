@@ -3,10 +3,10 @@ import { Check } from "lucide-react"
 import { Button } from "../../app/primitives/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "../../app/primitives/card"
 import { Badge } from "../../app/primitives/badge"
-import { Container } from "../layout/Container"
-import { Section } from "../layout/Section"
-import { Grid } from "../layout/Grid"
-import { SectionReveal } from "../motion/SectionReveal"
+import { Container } from "../../components/layout/Container"
+import { Section } from "../../components/layout/Section"
+import { Grid } from "../../components/layout/Grid"
+import { SectionReveal } from "../../components/motion/SectionReveal"
 
 interface PricingFeature {
     text: string

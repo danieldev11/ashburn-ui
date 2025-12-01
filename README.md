@@ -36,7 +36,7 @@ Import components directly:
 
 ```tsx
 import { Button } from "@/ashburn-ui/app/primitives/button";
-import { HeroPrimary } from "@/ashburn-ui/components/sections/HeroPrimary";
+import { HeroPrimary } from "@/ashburn-ui/marketing/patterns/HeroPrimary";
 
 export default function Page() {
   return (

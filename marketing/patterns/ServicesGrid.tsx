@@ -1,10 +1,11 @@
+```typescript
 import * as React from "react"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "../../app/primitives/card"
-import { Container } from "../layout/Container"
-import { Section } from "../layout/Section"
-import { Grid } from "../layout/Grid"
-import { StaggerList } from "../motion/StaggerList"
-import { SectionReveal } from "../motion/SectionReveal"
+import { Container } from "../../components/layout/Container"
+import { Section } from "../../components/layout/Section"
+import { Grid } from "../../components/layout/Grid"
+import { StaggerList } from "../../components/motion/StaggerList"
+import { SectionReveal } from "../../components/motion/SectionReveal"
 
 interface ServiceItem {
     title: string

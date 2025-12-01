@@ -3,9 +3,9 @@ import { Button } from "../../app/primitives/button"
 import { Input } from "../../app/primitives/input"
 import { Textarea } from "../../app/primitives/textarea"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../../app/primitives/card"
-import { Container } from "../layout/Container"
-import { Section } from "../layout/Section"
-import { SectionReveal } from "../motion/SectionReveal"
+import { Container } from "../../components/layout/Container"
+import { Section } from "../../components/layout/Section"
+import { SectionReveal } from "../../components/motion/SectionReveal"
 
 interface ContactSectionProps {
     headline?: string
